@@ -1,4 +1,4 @@
-!pip install git+https://github.com/openai/swarm.git
+#!pip install git+https://github.com/openai/swarm.git
 
 import os
 from google.colab import userdata
